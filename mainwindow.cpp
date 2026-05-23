@@ -2,6 +2,8 @@
 #include "ui_mainwindow.h"
 #include <QDebug>
 
+/// ====== این خط فقط در branch myHamed وجود دارد ======
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
