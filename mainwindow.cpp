@@ -13,6 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     testGitFunction();
 
     /// برنچ myhamed
+    /// dd
 }
 
 MainWindow::~MainWindow()
